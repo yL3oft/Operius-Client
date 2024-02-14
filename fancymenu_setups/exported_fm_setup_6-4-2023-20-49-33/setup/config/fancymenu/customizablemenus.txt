@@ -1,0 +1,11 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screen.DownloadTerrainScreen {
+}
+
+net.minecraft.client.gui.screen.ConnectingScreen {
+}
+
+net.minecraft.client.gui.screen.MainMenuScreen {
+}
+

@@ -1,0 +1,30 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "rftoolsbase:manual": {
+      "viewedEntries": [
+        "xnet:simple/controller",
+        "xnet:simple/cables",
+        "xnet:simple/connector",
+        "xnet:network/router",
+        "xnet:wireless/wireless_router",
+        "rftoolsbase:machines/infusing"
+      ],
+      "bookmarks": [
+        {
+          "entry": "xnet:simple/controller",
+          "page": 0
+        }
+      ],
+      "completedManualQuests": []
+    },
+    "industrialforegoing:industrial_foregoing": {
+      "viewedEntries": [
+        "industrialforegoing:basics/plastic"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
